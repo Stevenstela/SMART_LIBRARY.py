@@ -1,0 +1,4 @@
+ROLE_LIBRARIAN = "Librarian"
+ROLE_MEMBER = "Member"
+MAX_LOANS = 3
+LOAN_DAYS = 7
